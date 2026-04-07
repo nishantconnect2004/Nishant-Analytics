@@ -1,5 +1,5 @@
 # Nishant-Analytics
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Nishant Pathak👋
 
 🎯 Aspiring Data Analyst from India  
 📊 Skilled in Excel, SQL, and Python  
